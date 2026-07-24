@@ -201,5 +201,3 @@ This project provides a practical understanding of **Random Forest**, one of the
 By comparing a single Decision Tree with a Random Forest, the notebook demonstrates how ensemble learning improves prediction accuracy, reduces overfitting, and produces models that generalize better to unseen data.
 
 It also serves as a strong foundation for learning advanced ensemble methods such as **Extra Trees**, **Gradient Boosting**, **AdaBoost**, **XGBoost**, **LightGBM**, and **CatBoost**.
-
----

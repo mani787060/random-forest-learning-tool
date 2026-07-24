@@ -203,5 +203,3 @@ By comparing a single Decision Tree with a Random Forest, the notebook demonstra
 It also serves as a strong foundation for learning advanced ensemble methods such as **Extra Trees**, **Gradient Boosting**, **AdaBoost**, **XGBoost**, **LightGBM**, and **CatBoost**.
 
 ---
-
-## ⭐ If you found this notebook helpful, consider giving it an upvote!
